@@ -102,6 +102,7 @@ Build and test APIs faster.
 | [Hoppscotch](https://hoppscotch.io) | Open-source API development ecosystem | Free |
 | [HTTPie](https://httpie.io) | Modern command-line HTTP client | Freemium |
 | [Bruno](https://usebruno.com) | Offline-first API client | Free |
+| [BestJSON JSON Diff](https://bestjson.com/json-diff) | Compare saved JSON API responses and locate added, removed or changed values by path in the browser. | Free |
 
 ## Deployment
 
